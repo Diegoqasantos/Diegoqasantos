@@ -1,6 +1,6 @@
 - 👋 Olá, Eu sou @Diegoqasantos
 - 👀 Estou interessado em encontrar um emprego na area de testes automatizados
-- 🌱 Eu estou estudando API utilizando postman e cypress 
+- 🌱 Eu estou estudando API utilizando postman e cypress, testes de Perfomence com jmeter
 - 📫 Como chegar a mim ?
 -📩 diegoqasantos@gmail.com
 📞 -55 85 99792784
