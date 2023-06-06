@@ -3,7 +3,7 @@
 - 🌱 Eu estou estudando API utilizando postman e cypress 
 - 📫 Como chegar a mim ?
 -📩 diegoqasantos@gmail.com
--📞 -55 85 99792784
+📞 -55 85 99792784
 
 <!---
 Diegoqasantos/Diegoqasantos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
